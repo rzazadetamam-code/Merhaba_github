@@ -6,3 +6,6 @@ Bu depo, Github'ı öğrenirken oluşturduğum ilk depo
 
 - **Bölüm:** ...
 [Sakarya universitesi](sau_foto.jpg)
+
+## Hobilerim
+- kitap okumak
